@@ -1,0 +1,27 @@
+{
+  "name": "20250705",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jobscale/20250705.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jobscale/20250705/issues"
+  },
+  "homepage": "https://github.com/jobscale/20250705#readme",
+  "description": "",
+  "dependencies": {
+    "serve": "^14.2.4"
+  }
+}
